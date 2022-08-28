@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "darkmode-js": "^1.5.7",
+    "legra": "^0.3.0",
+    "moveable": "^0.35.0",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3"
   },
